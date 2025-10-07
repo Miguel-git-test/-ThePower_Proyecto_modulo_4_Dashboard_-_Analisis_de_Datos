@@ -6,11 +6,17 @@ Descripción del Proyecto
 Este proyecto consiste en el desarrollo de un Dashboard interactivo de ventas para una Coffee Shop, diseñado en Excel.
 El objetivo principal es explorar, analizar y visualizar las ventas con el fin de identificar tendencias, patrones y métricas clave que ayuden a comprender mejor el rendimiento del negocio.
 Para ello, se siguieron estos pasos:
+
 •	Exploración inicial de los datos a través de tablas dinámicas (pestaña “T_Dinam”) para detectar relaciones y tendencias.
+
 •	Revisión y comprensión de las columnas disponibles (pestaña “Nota”).
+
 •	Enriquecimiento de los datos mediante la creación de nuevas variables derivadas, como:
+
 o	Día de la semana y del mes a partir de las fechas.
+
 o	Hora del día de la transacción.
+
 o	Cálculo del Total_Amount a partir del precio unitario y las cantidades.
 •	Diseño del dashboard siguiendo el patrón visual en Z, colocando la información más general y relevante en la parte superior izquierda y el detalle en la parte inferior derecha.
 •	Uso de una paleta de colores suaves con predominio de tonos verdes para mantener una estética clara y agradable.
